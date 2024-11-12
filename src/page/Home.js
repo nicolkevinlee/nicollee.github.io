@@ -8,7 +8,7 @@ export const Home = () => {
 
     const techImages = tech.map((value)=> {
         return (
-            <Image className="techImage" src={"/images/tech/" + value} alt=""/>
+            <Image className="techImage" src={"./images/tech/" + value} alt=""/>
         );
     })
 
