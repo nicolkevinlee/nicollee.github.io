@@ -1,6 +1,6 @@
 import Gallery from "../component/Gallery"
 
-export const Portfolio = () => {
+export const Works = () => {
     return (
         <div>
             <h2>Works</h2>
