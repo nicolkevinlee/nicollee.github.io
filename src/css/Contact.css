@@ -1,0 +1,38 @@
+.fa {
+    padding: 15px;
+    width: 10px;
+    height: 10px;
+    text-align: center;
+    text-decoration: none;
+}
+
+.contactContainer{
+    width: 300px;
+}
+
+.fa-linkedin {
+    background: #3A3F44;
+    color: white;
+    font-size: 12px;
+    border-radius: 10%;  
+}
+
+.linkIcon{
+    width: 30px;
+    height: 30px;
+}
+
+.linksContainer{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-content: center;
+    justify-content: center;
+    width: auto;
+    height: auto;
+}
+
+.sociallink{
+    margin: 5px;
+}
+  

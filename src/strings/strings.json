@@ -1,0 +1,196 @@
+{
+    "portfolio": [
+      {
+        "project": "taskout",
+        "isProfessional": true,
+        "skills": [
+          "iOS",
+          "Objective-C"
+        ],
+        "url": "",
+        "image": "taskout.jpg"
+      },
+      {
+        "project": "Doc McStuffins Flavors of the World",
+        "isProfessional": true,
+        "skills": [
+          "HTML5",
+          "Haxe",
+          "OpenFL"
+        ],
+        "url": "",
+        "image": "flavors-of-the-world.jpg"
+      },
+      {
+        "project": "Superbook: Harvest Rush",
+        "isProfessional": true,
+        "skills": [
+          "HTML5",
+          "JavaScript",
+          "PixiJS"
+        ],
+        "url": "http://en.superbook.tv/pages/games/harvest-rush",
+        "image": "harvest-rush.jpg"
+      },
+      {
+        "project": "Duck Tales: Crash'n Dash",
+        "isProfessional": true,
+        "skills": [
+          "HTML5",
+          "Haxe",
+          "OpenFL",
+          "CocoonJS"
+        ],
+        "url": "",
+        "image": "crash-n-dash.jpg"
+      },
+      {
+        "project": "Shore Leave",
+        "isProfessional": true,
+        "skills": [
+          "iOS",
+          "Objective-C"
+        ],
+        "url": "",
+        "image": "shore-leave.jpg"
+      },
+      {
+        "project": "Mech-X4: Monster Watch",
+        "isProfessional": true,
+        "skills": [
+          "HTML5",
+          "Haxe",
+          "OpenFL",
+          "CocoonJS"
+        ],
+        "url": "",
+        "image": "monster-watch.jpg"
+      },
+      {
+        "project": "Wonder Over Yonder:Hater and DominatorTrue Hate Always",
+        "isProfessional": true,
+        "skills": [
+          "HTML5",
+          "Haxe",
+          "OpenFL",
+          "CocoonJS"
+        ],
+        "url": "",
+        "image": "true-hate-always.jpg"
+      },
+      {
+        "project": "Snow White: Forest Adventure",
+        "isProfessional": true,
+        "skills": [
+          "HTML5",
+          "Haxe",
+          "JavaScript",
+          "OpenFL"
+        ],
+        "url": "",
+        "image": "snow-white-forest-adventure.jpg"
+      },
+      {
+        "project": "Gamers Guide: Dragon Hero",
+        "isProfessional": true,
+        "skills": [
+          "HTML5",
+          "Haxe",
+          "OpenFL",
+          "CocoonJS"
+        ],
+        "url": "",
+        "image": "dragon-hero.jpg"
+      },
+      {
+        "project": "Sofia the First: The Buttercups' Forest Adventure",
+        "isProfessional": true,
+        "skills": [
+          "HTML5",
+          "Haxe",
+          "JavaScript",
+          "OpenFL"
+        ],
+        "url": "",
+        "image": "buttercups-forest-adventure.jpg"
+      },
+      {
+        "project": "Star vs the Forces of Evil:Creature Capture",
+        "isProfessional": true,
+        "skills": [
+          "HTML5",
+          "Haxe",
+          "OpenFL"
+        ],
+        "url": "",
+        "image": "creature-capture.jpg"
+      },
+      {
+        "project": "Song Fanatik",
+        "isProfessional": true,
+        "skills": [
+          "iOS",
+          "Objective-C"
+        ],
+        "url": "",
+        "image": "song-fanatik.jpg"
+      },
+      {
+        "project": "Eyetem",
+        "isProfessional": true,
+        "skills": [
+          "iOS",
+          "Objective-C"
+        ],
+        "url": "",
+        "image": "not-available.png"
+      },
+      {
+        "project": "Nescafe Spots",
+        "isProfessional": true,
+        "skills": [
+          "iOS",
+          "Objective-C"
+        ],
+        "url": "",
+        "image": "not-available.png"
+      },
+      {
+        "project": "Cashier App",
+        "isProfessional": false,
+        "skills": [
+          "C#",
+          ".NET"
+        ],
+        "url": "https://github.com/nicolkevinlee/CashierApp",
+        "image": "cashier-app.jpg"
+      },
+      {
+        "project": "Cashier App API",
+        "isProfessional": false,
+        "skills": [
+          "C#",
+          ".NET",
+          "ASP.NET"
+        ],
+        "url": "https://github.com/nicolkevinlee/CashierAppApi",
+        "image": "cashier-app.jpg"
+      },
+      {
+        "project": "Crafting Calculator",
+        "isProfessional": false,
+        "skills": [
+          "C#",
+          ".NET"
+        ],
+        "url": "https://github.com/nicolkevinlee/CraftingCalculator",
+        "image": "crafting-calculator.jpg"
+      }
+    ],
+    "tech": [
+        "CSharp.png",
+        "DotNet.png",
+        "JavaScript.png",
+        "Git.png"
+    ]
+}

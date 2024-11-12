@@ -1,0 +1,15 @@
+.techImage{
+    width: 100px;
+    height: 100px;
+    margin: 20px;
+}
+
+.techContainer{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-content: center;
+    justify-content: center;
+    width: auto;
+    height: auto;
+}

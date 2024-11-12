@@ -1,0 +1,12 @@
+.galleryContainer {
+    width: 90%;
+    margin: auto;
+}
+
+.filterGroup {
+    margin: 10px;
+}
+
+.filterButton {
+    margin: 5px;
+}
